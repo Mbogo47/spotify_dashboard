@@ -5,7 +5,7 @@ A dashboard analysing my spotify listening history
 This project is a data visualization dashboard that analyzes my Spotify listening history. It provides insights into my music preferences, top artists, genres, and listening trends. The dashboard was created using Python, Pandas, and Tableau for visualization.
 
 ## Live Link
-[[Access the Dashboard Here](https://public.tableau.com/app/profile/ivy.mbogo/viz/SpotifyStreamingDashboard_17383041939810/SpotifyDashboard)
+[Access the Dashboard Here](https://public.tableau.com/app/profile/ivy.mbogo/viz/SpotifyStreamingDashboard_17383041939810/SpotifyDashboard)
 
 ## Process
 ### 1. Extracting Data
